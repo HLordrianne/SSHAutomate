@@ -1,6 +1,6 @@
 # 
 # Your Monitor Number
-m = '#$34T#'
+m = '41'
 #
 # How to configure devices via python
 # Using various SSH Libraries (Paramiko, Netmiko, Nornir, etc)
